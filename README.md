@@ -2,6 +2,8 @@
 
 # Hanzo S3
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/s3&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/s3&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/s3&ref=main&action=deploy)
+
 Hanzo S3 is S3-compatible distributed object storage: a master, volume servers, a filer and
 an S3 gateway, all in one Go binary called `s3`.
 
